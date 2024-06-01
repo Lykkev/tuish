@@ -1,5 +1,6 @@
 {
   "version": "1.0.1",
   "url": "https://cdn.discordapp.com/attachments/839861567561400380/1246292811058384956/net8.0.rar?ex=665c84e1&is=665b3361&hm=abb19b77e9822efc6bf1557e1b1ca0d630e7b50e48838067d89ad434fa3b8ef8&",
-  "releaseNotes": "https://yourserver.com/path/to/release-notes.html"
+  "releaseNotes": "https://yourserver.com/path/to/release-notes.html",
+  "mandatory": true
 }
